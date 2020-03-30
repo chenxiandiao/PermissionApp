@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.teletraan.permission" >
+
+
+    <application>
+        <activity android:name=".MyPermissionActivity"/>
+    </application>
+</manifest>
