@@ -1,6 +1,5 @@
 package com.teletraan.permission.aspect;
 
-// TODO 专门处理权限的 Aspect
 
 import android.content.Context;
 
